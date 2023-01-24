@@ -1,3 +1,5 @@
+<h2 align="center">代码可以写得菜，但是主页还是要整一整的</h2>
+
 <div align="center"> <img src="https://metrics.lecoq.io/5e9451f4c5e36313?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 ***
