@@ -1,6 +1,6 @@
 ## Hi！这里是5e9451f4c5e36313（某个名字的MD5），24岁，是学生（~~悲~~）
 
-<h2>代码可以写得菜，但是主页还是要整一整的</h2>
+## 代码可以写得菜，但是主页还是要整一整的
 
 <div align="center"> <img src="https://metrics.lecoq.io/5e9451f4c5e36313?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
