@@ -2,8 +2,6 @@
 
 ## 代码可以写得菜，但是主页还是要整一整的
 
-<div align="center"> <img src="https://metrics.lecoq.io/uminomanimani?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
 ***
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uminomanimani&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
